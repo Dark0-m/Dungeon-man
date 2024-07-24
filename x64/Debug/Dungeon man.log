@@ -1,0 +1,92 @@
+﻿  main.cpp
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(112,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(112,65): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(112,65): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(112,65): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(112,65): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(180,55): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(180,55): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(180,55): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(180,55): warning C4244:             T=float
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(180,55): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,74): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,74): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,74): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,74): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,50): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,50): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,50): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(186,50): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,71): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,71): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,71): warning C4244:             T=float
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,71): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,57): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,57): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,57): warning C4244:             T=float
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(193,57): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,71): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,71): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,71): warning C4244:             T=float
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,71): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,57): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,57): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,57): warning C4244:             T=float
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(197,57): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(201,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(201,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(205,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(205,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(210,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(210,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(218,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(218,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,77): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,77): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,77): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,77): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,53): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,53): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,53): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(224,53): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(226,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(240,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(240,54): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(240,54): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(240,54): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(240,54): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(241,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(241,54): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(241,54): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(241,54): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(241,54): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(260,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,86): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,86): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,86): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,86): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,57): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,57): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,57): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(290,57): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,86): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,86): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,86): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,86): warning C4244:         ]
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,57): warning C4244:         with
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,57): warning C4244:         [
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,57): warning C4244:             T=unsigned int
+C:\Users\Khali\source\repos\Dungeon man\Dungeon man\Game.h(304,57): warning C4244:         ]
+  Dungeon man.vcxproj -> C:\Users\Khali\source\repos\Dungeon man\x64\Debug\Dungeon man.exe
